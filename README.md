@@ -7,7 +7,7 @@ O Exame Nacional do Ensino Médio (Enem), tem como objetivo avaliar o desempenho
 
 ### Objetivos 
 
-##### O objetivo dessa análise é explorar os dados do ENEM 2021, de forma a visualizar tendências. Os pontos analisados serão:
+##### O objetivo dessa análise é explorar os dados do ENEM 2021 de forma a visualizar tendências. Os pontos analisados serão:
 
 1. Analisar a influência do sexo nas notas
 2. Analisar a influência da conclusão do ensino médio nas notas

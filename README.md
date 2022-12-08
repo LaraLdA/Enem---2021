@@ -14,5 +14,5 @@ O Exame Nacional do Ensino Médio (Enem), tem como objetivo avaliar o desempenho
 3. Analisar a influência da renda familiar nas notas 
 4. Analisar a influência dos Estados nas notas
     
-###### Os dados e informações aqui utilizados  tem origem no Instituto nacional de Estudos e Pesquisas educacionais Anísio Teixeira -INEP, podendo serem acessados em:
+###### Os dados e informações aqui utilizados foram retirados do Instituto nacional de Estudos e Pesquisas educacionais Anísio Teixeira -INEP, podendo serem acessados em:
 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
